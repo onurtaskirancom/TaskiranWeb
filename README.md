@@ -1,2 +1,2 @@
 # TaskiranBlogWeb
-Personel Blog Site Project
+Personel Site Project
